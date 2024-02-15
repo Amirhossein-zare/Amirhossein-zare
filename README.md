@@ -16,6 +16,8 @@ Hello there! I'm a passionate junior developer with a focus on C#. Currently imm
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amirhossein-zare&icon=2&color=2)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Amirhossein-zare&label=Guests&color=4&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
